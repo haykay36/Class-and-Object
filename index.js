@@ -9,8 +9,10 @@ class person{
 // in initiation of object // person3 is an object
 //Doctors and Engineer are an example of an object
 const person3 = new person()
-console.log(person)
-console.log(person3)
+console.log(person)  //person1: 'A man that has two eyes',
+                    // person2: 'A woman that has two legs'
+console.log(person3) //Doctors: 'A person who is qualified to treat ill people',
+                    //Engineers: 'A person who build, design or maintain engine or structure'
 // Therefore a class is the blueprint or structural plan of an object
 //while an object is the instance of a class 
 //person: person1 and person2 are examples of class
